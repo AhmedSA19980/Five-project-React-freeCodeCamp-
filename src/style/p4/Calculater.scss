@@ -1,0 +1,81 @@
+.wrapper{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #333;
+}
+.displayMain{
+    width: 400px;
+    //height: 100%;
+    //height: 100%;
+    margin: 8rem auto;
+    align-items: center;
+    background: orange;
+    font-size: 22px;
+    box-shadow: 4px 5px 4px 5px none;
+}
+.display{
+    height: 27px;
+}
+.number{
+
+
+
+    display: grid;
+   grid-template-columns:   auto auto auto auto;
+    justify-content: center;
+    
+ & div{
+     padding: 2px 2px;
+ }
+
+    &__step{
+
+        color:white;
+        background-color: orangered;
+        font-weight: 500;
+        font-size: 17px;
+        border:none ;
+        
+    }
+}
+.span{
+    grid-column: 1/3;
+    
+    width: 90px;
+    height: 90px;
+}
+#clear{
+    border-radius: 15%;
+    width: 150px;
+    height: 70px;
+}
+#equals{
+    border-radius: 15%;
+    width: 70px;
+    height: 70px;
+}
+
+
+
+#one,#two,#three,
+#four,#five,#six,
+#seven,#eight,#nine
+,#zero, #decimal, #add, #substract
+,#multiply, #divide{
+    border: none;
+    border-radius: 50%;
+    font-weight: 500;
+    font-size: 17px;
+     width: 80px;
+    height: 80px;
+    box-shadow: 2px 3px 2px 3px orangered;
+}
+
+
+.action {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    background: lightcoral;
+}

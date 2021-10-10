@@ -1,0 +1,132 @@
+
+
+
+.drum{
+    //border: 5px solid green;
+    background:orange;
+ 
+    padding: 12px 22px;
+    width: 400px;
+    height: 320px;
+    display: grid;
+    grid-template-columns: repeat(3, 50px);
+    grid-template-rows:repeat(3, 50px) ;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    justify-content: space-evenly;
+    align-self: center;
+    margin:15% 40px;
+    box-shadow: 4px 5px 4px 5px goldenrod;
+    border-radius: 20px;
+    
+    
+}
+.drum-pad{
+  background-color: #c50e07;
+     color: white;
+     font-weight: 600;
+     
+ 
+  
+}
+.white{
+  background-color: orange;
+}
+.btn-music{
+    width: 100px;
+    height: 100px;
+    background-color: #c50e07;
+    border-radius: 12px;
+   // padding: 12px 10px;
+    //margin: 12px 12px;
+   
+}
+.drum-section{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    background-color:#220226;
+    
+
+    &__control{
+       //  border: 3px solid purple;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        
+    }
+}
+
+.project{
+  font-size: 40px;
+  position: absolute;
+  text-align: center;
+  color: white;
+}
+
+.header{
+  margin: 15px 30px;
+  color: white;
+}
+input[type=range] {
+ // height: 25px;
+  -webkit-appearance: none;
+ // margin: 10px 0;
+  width: 100%;
+  background-color: white;
+}
+
+input[type=checkbox] {
+ // margin: 20px 12px;
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+label {
+  cursor: pointer;
+  text-indent: -9999px;
+  width: 52px;
+  height: 27px;
+  background: white;
+  float: right;
+  border-radius: 100px;
+  position: relative;
+}
+
+label:after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 20px;
+  height: 20px;
+  background: gold;
+  border-radius: 90px;
+  transition: 0.3s;
+}
+
+input:checked + label {
+  background: orange;
+}
+
+input:checked + label:after {
+  left: calc(100% - 5px);
+  transform: translateX(-100%);
+}
+
+label:active:after {
+  width: 45px;
+}
+
+/*html.transition,
+html.transition *,
+html.transition *:before,
+html.transition *:after {
+   transition: all .15s ease;
+}*/
+
