@@ -3,14 +3,14 @@
     "static/js/0.4a6dbdda.chunk.js": "/Five-project-React-freeCodeCamp-/static/js/0.4a6dbdda.chunk.js",
     "static/js/0.4a6dbdda.chunk.js.map": "/Five-project-React-freeCodeCamp-/static/js/0.4a6dbdda.chunk.js.map",
     "main.css": "/Five-project-React-freeCodeCamp-/static/css/main.a005b24c.chunk.css",
-    "main.js": "/Five-project-React-freeCodeCamp-/static/js/main.794b7f41.chunk.js",
-    "main.js.map": "/Five-project-React-freeCodeCamp-/static/js/main.794b7f41.chunk.js.map",
+    "main.js": "/Five-project-React-freeCodeCamp-/static/js/main.72a6161d.chunk.js",
+    "main.js.map": "/Five-project-React-freeCodeCamp-/static/js/main.72a6161d.chunk.js.map",
     "runtime-main.js": "/Five-project-React-freeCodeCamp-/static/js/runtime-main.4e2f4345.js",
     "runtime-main.js.map": "/Five-project-React-freeCodeCamp-/static/js/runtime-main.4e2f4345.js.map",
     "static/js/3.984d88b6.chunk.js": "/Five-project-React-freeCodeCamp-/static/js/3.984d88b6.chunk.js",
     "static/js/3.984d88b6.chunk.js.map": "/Five-project-React-freeCodeCamp-/static/js/3.984d88b6.chunk.js.map",
-    "static/js/4.3fe409bc.chunk.js": "/Five-project-React-freeCodeCamp-/static/js/4.3fe409bc.chunk.js",
-    "static/js/4.3fe409bc.chunk.js.map": "/Five-project-React-freeCodeCamp-/static/js/4.3fe409bc.chunk.js.map",
+    "static/js/4.0a534836.chunk.js": "/Five-project-React-freeCodeCamp-/static/js/4.0a534836.chunk.js",
+    "static/js/4.0a534836.chunk.js.map": "/Five-project-React-freeCodeCamp-/static/js/4.0a534836.chunk.js.map",
     "static/css/5.bdd51f32.chunk.css": "/Five-project-React-freeCodeCamp-/static/css/5.bdd51f32.chunk.css",
     "static/js/5.5eaa772a.chunk.js": "/Five-project-React-freeCodeCamp-/static/js/5.5eaa772a.chunk.js",
     "static/js/5.5eaa772a.chunk.js.map": "/Five-project-React-freeCodeCamp-/static/js/5.5eaa772a.chunk.js.map",
@@ -42,14 +42,14 @@
     "static/css/9.c0efae10.chunk.css.map": "/Five-project-React-freeCodeCamp-/static/css/9.c0efae10.chunk.css.map",
     "static/css/main.a005b24c.chunk.css.map": "/Five-project-React-freeCodeCamp-/static/css/main.a005b24c.chunk.css.map",
     "static/js/0.4a6dbdda.chunk.js.LICENSE.txt": "/Five-project-React-freeCodeCamp-/static/js/0.4a6dbdda.chunk.js.LICENSE.txt",
-    "static/js/4.3fe409bc.chunk.js.LICENSE.txt": "/Five-project-React-freeCodeCamp-/static/js/4.3fe409bc.chunk.js.LICENSE.txt",
+    "static/js/4.0a534836.chunk.js.LICENSE.txt": "/Five-project-React-freeCodeCamp-/static/js/4.0a534836.chunk.js.LICENSE.txt",
     "static/js/6.f530a384.chunk.js.LICENSE.txt": "/Five-project-React-freeCodeCamp-/static/js/6.f530a384.chunk.js.LICENSE.txt",
     "static/js/7.fb726266.chunk.js.LICENSE.txt": "/Five-project-React-freeCodeCamp-/static/js/7.fb726266.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e2f4345.js",
-    "static/js/4.3fe409bc.chunk.js",
+    "static/js/4.0a534836.chunk.js",
     "static/css/main.a005b24c.chunk.css",
-    "static/js/main.794b7f41.chunk.js"
+    "static/js/main.72a6161d.chunk.js"
   ]
 }
